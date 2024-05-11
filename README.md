@@ -1,9 +1,9 @@
-##IsmMedia
+# IsmMedia
 
-#Project Overview:
+# Project Overview:
 The Campus Social Hub is a comprehensive web-based platform designed to revolutionize communication and collaboration within educational institutions. Developed using the MERN stack (MongoDB, Express.js, React.js, Node.js), this platform serves as a centralized hub exclusively for campus members, including students, professors, and administrative staff.
 
-#Key Features:
+ # Key Features:
 
 1. User Authentication and Roles: A robust authentication system that allows users to register and log in with different roles—students, professors, and administration—each with tailored permissions.
 
@@ -27,7 +27,7 @@ Expected Impact:
 
 The Campus Social Hub aims to promote transparency, foster community, and empower users to collectively address campus-wide issues. By providing a centralized platform for communication and collaboration, it has the potential to become an indispensable tool within educational institutions.
 
-Deliverables:
+# Deliverables:
 
 - Fully functional web application developed using the MERN stack.
 - User documentation and guides for seamless onboarding and usage.
@@ -35,7 +35,7 @@ Deliverables:
 - Testing and debugging to ensure reliability and security.
 - Deployment of the application on a suitable hosting platform for campus-wide access.
 
-Conclusion:
+# Conclusion:
 
 Through the effective implementation and adoption of modern web technologies and user-centric design principles, the Campus Social Hub project aims to revolutionize campus communication and problem-solving. It endeavors to foster collaboration, community engagement, and positive change within educational institutions.
 
@@ -53,27 +53,44 @@ Through the effective implementation and adoption of modern web technologies and
 - Flask
 - Hugging Face Transformers
 
+# Overflow
 
-                            [ IsmMedia ]
-                             /       \
-            [ User Authentication ]    [ Content Sharing ]
-                /         \                  |
-    [ Context-Based Authentication ]       [ Automated Content Moderation ]
-                |               \                       |
-[ User Roles & Permissions ]       \           [ Content Moderation Results ]
-                |                    \                  |
-         [ User Profile ]               \        [ Filtered Content Display ]
-                |                        \                  |
-          [ User Settings ]                \            [ Shared Content ]
-                |                            \               |
-         [ Groups Creation & Joining ]         \     [ Trending Topics ]
-                |                                \              |
-        [ Group Discussions ]                      \    [ User Engagement ]
-                |                                    \            |
-    [ Problem Sharing & Resolution ]                 [ Feedback Mechanism ]
-                |                                            |
-        [ Admin Monitoring ]                                [ Admin Actions ]
-                |                                            |
-        [ Issue Resolution ]                                [ Notifications ]
-                |                                            |
-          [ User Updates ]                                [ User Interaction ]
+Start
+|
+v
+User Authentication
+|
+v
+Context-Based Authentication
+|
+v
+User Roles & Permissions
+|
+v
+Content Sharing
+|
+v
+Automated Content Moderation
+|
+v
+Filtered Content Display
+|
+v
+Groups Creation & Joining
+|
+v
+Group Discussions
+|
+v
+Problem Sharing & Resolution
+|
+v
+Admin Monitoring & Actions
+|
+v
+Notifications & User Updates
+|
+v
+End
+
+ 
