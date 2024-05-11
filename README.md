@@ -1,7 +1,7 @@
 # IsmMedia
 
 # Project Overview:
-The Campus Social Hub is a comprehensive web-based platform designed to revolutionize communication and collaboration within educational institutions. Developed using the MERN stack (MongoDB, Express.js, React.js, Node.js), this platform serves as a centralized hub exclusively for campus members, including students, professors, and administrative staff.
+ IsmMedia is a comprehensive web-based platform designed to revolutionize communication and collaboration within educational institutions. Developed using the MERN stack (MongoDB, Express.js, React.js, Node.js)and ML based APIs, this platform serves as a centralized hub exclusively for campus members, including students, professors, and administrative staff.
 
  # Key Features:
 
