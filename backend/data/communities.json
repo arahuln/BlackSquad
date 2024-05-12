@@ -1,0 +1,102 @@
+[
+  {
+    "name": "CSE Department",
+    "description": "The Computer Science and Engineering (CSE) department at our institute is dedicated to fostering innovation, creativity, and technological advancement through cutting-edge research, dynamic curriculum, and hands-on learning experiences.",
+    "banner": "https://t4.ftcdn.net/jpg/05/67/42/69/360_F_567426911_uqbDDCH73LCyB3EbR2v5UuyePVaxiavC.jpg"
+  },
+  {
+    "name": "ECE Department",
+    "description": "The Electronics and Communication Engineering (ECE) department at our institute is at the forefront of bridging the gap between theoretical knowledge and practical applications, empowering students with the skills and expertise needed to thrive in the rapidly evolving field of electronics and communication technology.",
+    "banner": "https://t3.ftcdn.net/jpg/05/23/17/96/360_F_523179672_oqzQcZWTUV0KNrxF44Vv4KtDarkbUXLp.jpg"
+  },
+  {
+    "name": "Mech Department",
+    "description": "The Mechanical Engineering department at our institute is committed to nurturing a diverse community of future engineers equipped with the knowledge, skills, and ingenuity to solve complex engineering challenges. With a focus on innovation, hands-on learning, and interdisciplinary collaboration, we prepare our students to lead in the ever-changing landscape of mechanical engineering.",
+    "banner": "https://dynamic.brandcrowd.com/asset/logo/1c12aee4-6065-4c28-b11b-e3321af48854/logo-search-grid-1x?logoTemplateVersion=1&v=637773182662130000"
+  },
+  {
+    "name": "Cyberlabs",
+    "description": "Cyberlabs Society is a vibrant community where various divisions of development, including web development, Android, machine learning, and UI/UX design, converge to explore, innovate, and collaborate. Through workshops, projects, and events, we empower members to delve into cutting-edge technologies, hone their skills, and contribute to the dynamic landscape of digital innovation.",
+    "banner": "https://cyberlab.com/website/wp-content/uploads/2023/06/cyberlab-logo-white.svg"
+  },
+  {
+    "name": "CodeIsm",
+    "description": "Codeism is a premier platform dedicated to mastering various programming languages. Through immersive courses, hands-on projects, and expert mentorship, we provide a nurturing environment for individuals to develop proficiency in a wide array of programming languages. Whether you're a beginner or an experienced coder, Codeism offers the resources and support needed to unlock your full potential and thrive in the world of software development.",
+    "banner": "https://codism.io/wp-content/uploads/2018/08/Logo_White.png"
+  },
+  {
+    "name": "Badminton",
+    "description": "Badminton is a dynamic and fast-paced sport played either indoors or outdoors, requiring agility, speed, and precision. Players use lightweight rackets to hit a shuttlecock back and forth over a net, aiming to land it in their opponent's court. With its roots tracing back centuries, badminton has evolved into a popular recreational activity and competitive sport worldwide. It offers numerous health benefits, including cardiovascular exercise, improved reflexes, and enhanced hand-eye coordination. Whether played casually or competitively, badminton provides an exhilarating and engaging experience for players of all ages and skill levels.",
+    "banner": "https://i.pinimg.com/originals/cb/cb/ef/cbcbefea6060849aa7da843cef368115.jpg"
+  },
+  {
+    "name": "Cricket",
+    "description": "The cricket club stands as a bastion of sporting excellence, where enthusiasts gather to celebrate the rich tradition and competitive spirit of the game. With a roster of dedicated players honing their skills on lush green fields, the club serves as a hub for cricketing talent and camaraderie. From friendly matches to intense tournaments, members of all ages and backgrounds come together to share their passion for cricket and foster lifelong friendships. Guided by a commitment to sportsmanship and fair play, the club embodies the values of teamwork, discipline, and perseverance. Whether on the field or off, the cricket club fosters a sense of community, uniting individuals in the pursuit of excellence and the joy of the game.",
+    "banner": "https://media.istockphoto.com/id/1361920460/vector/cricket-sports-vector-logo-design.jpg?s=612x612&w=0&k=20&c=sOuta4Lctaz22vbrziV2OoSjGRYOooGJEeYlBF3zOGw="
+  },
+  {
+    "name": "Art and Design",
+    "description": "A community for artists and designers to share their work, tips, and inspiration. From painting to graphic design, this community has all the creativity you need to fuel your passion!",
+    "banner": "https://raw.githubusercontent.com/nz-m/public-files/main/banners/Art-and-Design.jpg"
+  },
+  {
+    "name": "Manthon",
+    "description": "Manthon, a harmonious haven for music enthusiasts, resonates with the melodies of passionate voices united in song. As a singing club, Manthon offers a welcoming space where members can explore their vocal talents, refine their skills, and share their love for music with like-minded individuals. From soulful ballads to upbeat anthems, the club embraces a diverse repertoire, catering to a wide range of musical tastes and styles. Through regular rehearsals, performances, and collaborative projects, members of Manthon forge deep connections and cultivate a sense of belonging within the musical community. Guided by a shared commitment to artistic expression and creativity, the club empowers singers of all levels to shine brightly and find their voice. Join Manthon and let your melodies soar in harmony with others who share your passion for song.",
+    "banner": "https://t3.ftcdn.net/jpg/03/54/51/48/360_F_354514831_wf1FyNT1TtN2Ruj2VaKRCx2zvAL5hKCU.jpg"
+  },
+  {
+    "name": "LITM",
+    "description": "LITM, the Light in the Motion, illuminates the stage with electrifying energy and graceful movements as a premier dancing club. Here, dancers of all backgrounds and skill levels converge to express themselves through the universal language of movement. From contemporary choreography to traditional dance forms, LITM embraces a diverse range of styles, fostering creativity and innovation on the dance floor. Through rigorous training, collaborative performances, and immersive workshops, members of LITM cultivate their talents while forging lifelong friendships and unforgettable memories. Guided by a shared passion for rhythm and expression, LITM celebrates the joy of dance, igniting sparks of inspiration and igniting the stage with every step. Join LITM and let your light shine through the power of dance.",
+    "banner": "https://penji.co/wp-content/uploads/2022/09/9.-Sway.jpg"
+  },
+  {
+    "name": "Health and Fitness",
+    "description": "A community for fitness fanatics and health gurus to share tips and advice on healthy living, exercise, and nutrition. Whether you're a seasoned athlete or just starting out, this community has something for everyone!",
+    "banner": "https://raw.githubusercontent.com/nz-m/public-files/main/banners/Health-and-Fitness.jpg"
+  },
+  {
+    "name": "Travel",
+    "description": "A community for travel junkies to share their experiences, tips, and recommendations for destinations around the world. From backpacking to luxury travel, this community has all the inspiration you need to plan your next adventure!",
+    "banner": "https://raw.githubusercontent.com/nz-m/public-files/main/banners/Travel.jpg"
+  },
+  {
+    "name": "Food and Cooking",
+    "description": "A community for foodies and home cooks to share recipes, cooking tips, and food-related news and events. From gourmet cuisine to comfort food, this community has all the ingredients for a delicious conversation!",
+    "banner": "https://raw.githubusercontent.com/nz-m/public-files/main/banners/Food-and-Cooking.jpg"
+  },
+  {
+    "name": "Music",
+    "description": "A community for music lovers to discuss their favorite genres, artists, and concerts. From classical to hip hop, this community has all the beats you need to get your groove on!",
+    "banner": "https://raw.githubusercontent.com/nz-m/public-files/main/banners/Music.jpg"
+  },
+  {
+    "name": "Sports",
+    "description": "A community for sports fans to discuss the latest news, events, and teams. From football to basketball, this community has all the action you need to stay up-to-date on your favorite sports!",
+    "banner": "https://raw.githubusercontent.com/nz-m/public-files/main/banners/Sports.jpg"
+  },
+  {
+    "name": "Fashion",
+    "description": "A community for fashionistas to share their tips, trends, and styles. From haute couture to streetwear, this community has all the fashion-forward ideas you need to stay on top of your game!",
+    "banner": "https://raw.githubusercontent.com/nz-m/public-files/main/banners/Fashion.jpg"
+  },
+  {
+    "name": "Art and Design",
+    "description": "A community for artists and designers to share their work, tips, and inspiration. From painting to graphic design, this community has all the creativity you need to fuel your passion!",
+    "banner": "https://raw.githubusercontent.com/nz-m/public-files/main/banners/Art-and-Design.jpg"
+  },
+  {
+    "name": "Business and Entrepreneurship",
+    "description": "A community for business-minded individuals to discuss the latest news, strategies, and entrepreneurship. From startups to established companies, this community has all the insights you need to succeed in the business world!",
+    "banner": "https://raw.githubusercontent.com/nz-m/public-files/main/banners/Business-and-Entrepreneurship.png"
+  },
+  {
+    "name": "Education",
+    "description": "A community for educators and students to share educational resources, tips, and advice. From K-12 to higher education, this community has all the knowledge you need to excel in your studies!",
+    "banner": "https://raw.githubusercontent.com/nz-m/public-files/main/banners/Education.jpg"
+  },
+  {
+    "name": "Programming",
+    "description": "A community for programmers to discuss programming languages, frameworks, and software development. From web development to mobile apps, this community has all the code you need to build your next project!",
+    "banner": "https://raw.githubusercontent.com/nz-m/public-files/main/banners/Programming.jpg"
+  }
+]
